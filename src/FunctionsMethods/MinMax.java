@@ -1,4 +1,4 @@
-package Functions;
+package FunctionsMethods;
 import java.util.Scanner;
 
 public class MinMax {
